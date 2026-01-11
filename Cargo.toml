@@ -1,7 +1,7 @@
 [package]
-name = "Rust-Voxel-Engine"
-version = "0.1.0"
-edition = "2024"
+name = "Project Progression"
+version = "0.0.1"
+edition = "2026"
 
 [dependencies]
 bevy = "0.17.3"
